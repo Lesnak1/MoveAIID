@@ -1,6 +1,6 @@
 # MoveAIID – AI-Enhanced Decentralized Identity & Reputation Platform
 
-MoveAIID is a decentralized identity and reputation platform built on the Movement Network. It leverages the power of Move smart contracts, decentralized identifiers (DIDs) following the MoveDID protocol, and AI agents (via Fleek’s Eliza Framework) to enable users to securely manage their on-chain profiles and generate real-time reputation scores. This platform not only empowers users with complete control over their digital identity but also provides developers with robust tools for integration into DeFi, social dApps, and other Web3 services.
+**MoveAIID** is a decentralized identity and reputation platform built on the Movement Network. It leverages the power of Move smart contracts, decentralized identifiers (DIDs) following the MoveDID protocol, and AI agents (via Fleek’s Eliza Framework) to enable users to securely manage their on-chain profiles and generate real-time reputation scores. This platform not only empowers users with complete control over their digital identity but also provides developers with robust tools for integration into DeFi, social dApps, and other Web3 services.
 
 ## Table of Contents
 - [Overview](#overview)
@@ -14,7 +14,7 @@ MoveAIID is a decentralized identity and reputation platform built on the Moveme
 - [Contact & Support](#contact)
 
 ## Overview
-MoveAIID combines cutting-edge decentralized identity (DID) protocols with AI-driven reputation analytics to create a next-generation digital identity platform on the Movement Network. Users can create and update their on-chain profiles, while an integrated AI agent continuously analyzes on-chain behavior, transaction history, and (optionally) off-chain data to produce dynamic reputation scores. These scores can then be used for:
+**MoveAIID** combines cutting-edge decentralized identity (DID) protocols with AI-driven reputation analytics to create a next-generation digital identity platform on the Movement Network. Users can create and update their on-chain profiles, while an integrated AI agent continuously analyzes on-chain behavior, transaction history, and (optionally) off-chain data to produce dynamic reputation scores. These scores can then be used for:
 
 - **Authentication and Access Control:** Granting users access to exclusive dApps, investment opportunities, or community privileges.
 - **Risk Assessment:** Helping DeFi protocols or other financial services evaluate user credibility.
@@ -194,4 +194,4 @@ Discord: kresna6773
 
 Telegram: @lesnacrex  
 
-Empower your digital identity. Revolutionize reputation management. Welcome to MoveAIID!
+### Empower your digital identity. Revolutionize reputation management. Welcome to MoveAIID!
