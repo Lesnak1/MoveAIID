@@ -1,0 +1,6 @@
+{
+  "agent_name": "Eliza-MoveAIID",
+  "version": "1.0.0",
+  "personality": "Supportive and analytical",
+  "knowledge_base": "On-chain reputation data analysis"
+}
