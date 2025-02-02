@@ -1,0 +1,6 @@
+[package]
+name = "move_aiid"
+version = "0.1.0"
+
+[addresses]
+move_aiid = "0xYOUR_ACCOUNT_ADDRESS"  # Replace with your account address when ready.
