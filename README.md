@@ -190,6 +190,8 @@ For any questions or contributions, please contact me from here:
 philosophyfactss@gmail.com
 
 ### Socials:
+Twitter: https://x.com/MoveAiid/
+
 Discord: kresna6773
 
 Telegram: @lesnacrex  
